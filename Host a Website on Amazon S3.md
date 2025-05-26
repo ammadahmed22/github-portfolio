@@ -1,7 +1,7 @@
 <img src="https://cdn.prod.website-files.com/677c400686e724409a5a7409/6790ad949cf622dc8dcd9fe4_nextwork-logo-leather.svg" alt="NextWork" width="300" />
 
 # Host a Website on Amazon S3
-[Home](./https://github.com/ammadahmed22/github-portfolio)
+[Home](./github-portfolio)
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-host-a-website-on-s3)
 
