@@ -5,13 +5,11 @@
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-databases-intro)
 
 **Author:** Ammad Ahmed  
-**Email:** ayaanahmedcoding@gmail.com
-
+**Email:** iosammadahmed@gmail.com
 ---
 
 ## I'm exploring AWS Databases!
 
-![Image](http://learn.nextwork.org/inspired_gold_shy_gazelle/uploads/aws-databases-intro_ba6d42ae)
 
 ---
 
