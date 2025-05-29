@@ -5,7 +5,7 @@
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-vpc)
 
 **Author:** Ammad Ahmed  
-**Email:** ayaanahmedcoding@gmail.com
+**Email:** iosammadahmed@gmail.com
 
 ---
 
