@@ -12,3 +12,4 @@
 | 10  |  [Query Data with DynamoDB](./Query%20Data%20with%20DynamoDB.md)|
 | 11  |  [Get Hands on with Cloud Networking!](./Get%20Hands%20on%20with%20Cloud%20Networking!.md)|
 | 12  |  [Build a Virtual Private Cloud](./Build%20a%20Virtual%20Private%20Cloud.md)|
+| 13  |  [VPC Traffic Flow and Security](./VPC%20Traffic%20Flow%20and%20Security.md)|
