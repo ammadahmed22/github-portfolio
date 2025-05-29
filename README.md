@@ -10,4 +10,5 @@
 | 08  |  [Connect a Web App with Aurora](./Connect%20a%20Web%20App%20with%20Aurora.md)|
 | 09  |  [Load Data into DynamoDB](./Load%20Data%20into%20DynamoDB.md)|
 | 10  |  [Query Data with DynamoDB](./Query%20Data%20with%20DynamoDB.md)|
-| 11  |  [Build a Virtual Private Cloud](./Build%20a%20Virtual%20Private%20Cloud.md)|
+| 11  |  [Get Hands on with Cloud Networking!](./Get%20Hands%20on%20with%20Cloud%20Networking!.md)|
+| 12  |  [Build a Virtual Private Cloud](./Build%20a%20Virtual%20Private%20Cloud.md)|
