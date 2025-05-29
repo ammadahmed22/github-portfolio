@@ -5,13 +5,12 @@
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-intro)
 
 **Author:** Ammad Ahmed  
-**Email:** ayaanahmedcoding@gmail.com
+**Email:** iosammadahmed@gmail.com
 
 ---
 
 ## I'm starting the AWS Networking Series!
 
-![Image](http://learn.nextwork.org/inspired_gold_shy_gazelle/uploads/aws-networks-intro_ba6d42ae)
 
 ---
 
