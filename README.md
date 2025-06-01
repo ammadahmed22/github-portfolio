@@ -13,3 +13,5 @@
 | 11  |  [Get Hands on with Cloud Networking!](./Networking/Get%20Hands%20on%20with%20Cloud%20Networking!.md)|
 | 12  |  [Build a Virtual Private Cloud](./Networking/Build%20a%20Virtual%20Private%20Cloud.md)|
 | 13  |  [VPC Traffic Flow and Security](./Networking/VPC%20Traffic%20Flow%20and%20Security.md)|
+| 14  |  [Creating a Private Subnet](./Networking/Creating%20a%20Private%20Subnet.md)|
+| 15  |  [Launching VPC Resources](./Networking/Launching%20VPC%20Resources.md)|
